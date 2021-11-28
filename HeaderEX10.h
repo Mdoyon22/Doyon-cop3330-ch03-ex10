@@ -4,8 +4,8 @@
  */
 
 
-#ifndef UNTITLED_HEADER_H
-#define UNTITLED_HEADER_H
+#ifndef MAINCPP_HEADER_H
+#define MAINCPP_HEADER_H
 
 #include <iostream>
 #include <string>
